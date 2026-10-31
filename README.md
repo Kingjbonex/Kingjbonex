@@ -18,6 +18,7 @@ I write about it at **[jamespenning.dev](https://jamespenning.dev)**.
 | --- | --- |
 | **[jamespenning.dev](https://jamespenning.dev)** | My blog. Hugo, deployed by a CI runner on my home PC ([how](https://jamespenning.dev/my-blogs-ci-runs-on-my-home-pc/)) |
 | **[Lines](https://lines.jamespenning.dev)** | My sports-betting model, graded in public. Process, not picks ([meet Lines](https://jamespenning.dev/meet-lines/)) |
+| **[blog-kit](https://github.com/Kingjbonex/blog-kit)** | The Claude Code skills behind my blog: a voice loop that learns from my edits, and 8-bit crab GIFs |
 | **[My Balloon Era](https://www.myballoonera.com)** | Client site for a balloon-décor business in Cedar Rapids and Iowa City |
 
 ### Worth reading first
